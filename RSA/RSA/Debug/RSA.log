@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\vasily\downloads\rsa\rsa\main.cpp(92): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\vasily\downloads\rsa\rsa\main.cpp(220): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  RSA.vcxproj -> C:\Users\Vasily\Downloads\RSA\Debug\RSA.exe
